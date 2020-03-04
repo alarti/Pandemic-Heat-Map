@@ -1,11 +1,14 @@
-# location-history-visualizer Pandemic control
+# Pandemic Heat Map
 
 
 A tool for visualizing your complete, consolidated, collected Google [Location History](https://google.com/locationhistory).
+(pending) 
 
 It works directly in your web browser &ndash; no software to download, no packages to install. **Everyone deserves to know what data is being collected about them, without having to fiddle with cryptic pieces of software.**
 
 *location-history-visualizer* takes raw Google Takeout output and produces a heatmap of all of your location data over time, overlaid on an interactive map.
+
+forked from https://github.com/theopolisme/location-history-visualizer
 
 ## Packages used
 * [leaflet.js](http://leafletjs.com/), for rendering the interactive map
