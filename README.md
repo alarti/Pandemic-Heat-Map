@@ -1,6 +1,5 @@
-# location-history-visualizer
+# location-history-visualizer Pandemic control
 
-**Available online: [locationhistoryvisualizer.com/heatmap/](https://locationhistoryvisualizer.com/heatmap/)**
 
 A tool for visualizing your complete, consolidated, collected Google [Location History](https://google.com/locationhistory).
 
@@ -18,7 +17,6 @@ It works directly in your web browser &ndash; no software to download, no packag
 
 ## License
 
-Copyright (C) 2014 Theopolisme <theopolismewiki@gmail.com>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
