@@ -2,9 +2,14 @@
 
 
 A tool for visualizing your complete, consolidated, collected Google [Location History](https://google.com/locationhistory).
-(pending) 
+(pending)
 
-It works directly in your web browser &ndash; no software to download, no packages to install. **Everyone deserves to know what data is being collected about them, without having to fiddle with cryptic pieces of software.**
+We tried to build a set of tools to visualize and compare geolocation data in order to make probability arrays and connection clusters between people.
+
+It can be useful for the analysis of the evolution of infections.
+Building a secure engine to host anonymized data associated to private key, and critical information based on contagion (covid-19, SARS, MERS, etc.).
+
+For now, It works directly in your web browser &ndash; no software to download, no packages to install. **Everyone deserves to know what data is being collected about them, without having to fiddle with cryptic pieces of software.**
 
 *location-history-visualizer* takes raw Google Takeout output and produces a heatmap of all of your location data over time, overlaid on an interactive map.
 
